@@ -1,0 +1,13 @@
+# Editor directories
+.vscode/
+.history
+.idea/
+
+# Environments
+.env/
+.venv/
+.env.*
+.venv.*
+
+# Others
+tests/
